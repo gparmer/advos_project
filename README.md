@@ -1,1 +1,1 @@
-# advos_project
+# Advanced OS Project
